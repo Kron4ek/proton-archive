@@ -1,4 +1,4 @@
-This repository contains builds of most versions of Proton released on Steam (excluding beta, rc and experimental). All builds were downloaded from Steam and provided here as is without any modifications.
+This repository contains builds of most versions of Proton released on Steam (excluding beta, rc and experimental). All builds were downloaded from Steam and uploaded here in their original state without any modifications.
 
 ## How to use these builds in Steam
 
